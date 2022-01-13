@@ -1,0 +1,11 @@
+{
+  "SupportedPreviousVersions": [
+    "9.46",
+    "9.45",
+    "9.43",
+    "9.42",
+    "9.41",
+    "9.40"
+  ],
+  "RebootRequired": false
+}
